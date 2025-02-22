@@ -13,7 +13,8 @@ The application is designed for the **CS216** course, where the goal is to simul
 - **Handshake Protocol**: Ensures the peers can identify and establish a connection before communication begins.
 - **Graceful Shutdown**: Allows the server to close all connections safely.
 
-## Team Members
+## Team 
+
 
 - **Aditya Naskar** - 230002005
 - **Aniket Goyal** - 230002009
@@ -38,6 +39,6 @@ Follow these steps to run the Peer-to-Peer Chat application on your machine:
 First, clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your_username/peer-to-peer-chat.git
+[git clone https://github.com/your_username/peer-to-peer-chat.git](https://github.com/Eclipsiess/BlockChain_Project.git)
 cd peer-to-peer-chat
 
